@@ -1,3 +1,15 @@
 .bg-color {
     background-color: #589bff;
 }
+
+.divider {
+    display: block;
+    margin: 0;
+    padding: 0;
+    top: -100;
+    bottom: -100;
+}
+
+.services {
+    background-color:#589bff;
+}
