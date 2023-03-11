@@ -1,15 +1,16 @@
 .bg-color {
+    background-color: #3685fb;
+}
+
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    padding: .8rem 2rem;
+}
+
+.btn-color {
     background-color: #589bff;
+    color: #fff;
 }
 
-.divider {
-    display: block;
-    margin: 0;
-    padding: 0;
-    top: -100;
-    bottom: -100;
-}
 
-.services {
-    background-color:#589bff;
-}
