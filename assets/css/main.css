@@ -108,3 +108,12 @@ body {
     font-weight: 500;
     color: #354043;
 }
+
+.about {
+    padding: 3rem;
+}
+
+.about-box {
+    display: flex;
+    align-items: center;
+}
