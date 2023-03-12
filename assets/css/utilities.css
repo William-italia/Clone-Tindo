@@ -13,4 +13,9 @@
     color: #fff;
 }
 
+.icon-color {
+    background: linear-gradient(160deg, #39bdff 0, #55bcfc 25%, #00aeff 50%, #0098f6 75%, #0084ee 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 
