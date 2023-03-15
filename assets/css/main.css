@@ -22,6 +22,11 @@ body {
 .navbar .logo {
     display: flex;
     font-size: 1.4rem;
+    align-items: center;
+}
+
+.logo > i {
+    font-size: 2rem;
 }
 
 .navbar .menu-box button {
