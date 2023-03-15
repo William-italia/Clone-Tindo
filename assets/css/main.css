@@ -162,6 +162,7 @@ body {
     padding: 1.5rem;
     text-align: center;
     background: url(../img/background.jpg) center center/cover;
+    /* Foto de <a href="https://unsplash.com/@heftiba?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Toa Heftiba</a> na <a href="https://unsplash.com/pt-br/fotografias/4xe-yVFJCvw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*/
     z-index: 1;
     position: relative;
 }
@@ -199,6 +200,5 @@ body {
 .modules-box h3 {
     font-size: 1.2rem;
     margin-bottom: .5rem;
-    font-weight: 500;
     color: #333;
 }
