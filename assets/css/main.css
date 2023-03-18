@@ -84,12 +84,9 @@ body {
     margin-top: 1rem;
 }
 
-.services-dividers {
-}
-
 .services {
     position: relative;
-    padding: 2rem 1rem 6rem 1rem;
+    padding: 8rem 1rem 8rem 1rem;
     text-align: center;
 }
 .divider-1 {
@@ -116,7 +113,6 @@ margin: 0;
 
 
 .services > h2 {
-    margin-top: 2rem;
     color: #fff;
 }
 
@@ -140,6 +136,7 @@ margin: 0;
     font-weight: 500;
     color: #354043;
 }
+
 
 .about {
     padding: 0rem 1rem 3rem 1rem;
