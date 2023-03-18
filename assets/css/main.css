@@ -84,12 +84,39 @@ body {
     margin-top: 1rem;
 }
 
-.services {
-    padding: 2rem 1rem;
-    text-align: center;
+.services-dividers {
 }
 
+.services {
+    position: relative;
+    padding: 2rem 1rem 6rem 1rem;
+    text-align: center;
+}
+.divider-1 {
+    margin-top: -1rem;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.divider-2 {
+    margin-bottom: -1rem;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+}
+
+.divider-1 img, .divider-2 img {
+display: block;
+padding: 0;
+margin: 0;
+}
+
+
 .services > h2 {
+    margin-top: 2rem;
     color: #fff;
 }
 
@@ -115,7 +142,7 @@ body {
 }
 
 .about {
-    padding: 2rem 1rem;
+    padding: 0rem 1rem 3rem 1rem;
     display: flex;
     flex-direction: column;
     align-items: center;
