@@ -251,3 +251,26 @@ margin: 0;
     padding: 1.5rem;
     width: 100%;
 }
+
+.check-services .title {
+    text-align: center;
+    line-height: 2em;
+    padding: 2rem, 2rem, 1rem, 2rem;
+}
+
+.check-services .title img {
+    padding: 1.5rem;
+    width: 65%;
+} 
+
+.check-box {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+
+.check-box > i {
+    margin-right: .4rem;
+    font-size: 1.4rem;
+}
