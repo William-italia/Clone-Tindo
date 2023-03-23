@@ -252,6 +252,10 @@ margin: 0;
     width: 100%;
 }
 
+.check-services {
+    padding-bottom: 1rem;
+}
+
 .check-services .title {
     text-align: center;
     line-height: 2em;
