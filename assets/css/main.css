@@ -253,7 +253,7 @@ margin: 0;
 }
 
 .check-services {
-    padding-bottom: 1rem;
+    padding: 2rem;
 }
 
 .check-services .title {
@@ -262,19 +262,54 @@ margin: 0;
     padding: 2rem, 2rem, 1rem, 2rem;
 }
 
-.check-services .title img {
+/* .check-services .title img {
     padding: 1.5rem;
     width: 65%;
-} 
+}  */
+
+.logo-check {
+    display: flex;
+    align-items: center;
+    margin: 2rem 2rem 2rem 0rem;
+    justify-content: center;
+}
+
+.logo-check > i {
+    font-size: 3rem;
+}
+.logo-check > h1 {
+    font-size: 3rem;
+}
 
 .check-box {
     display: flex;
     align-items: center;
     margin-bottom: 1rem;
-    margin-left: 1rem;
+}
+.check-box:last-child {
+    margin-bottom: 1rem;
 }
 
 .check-box > i {
     margin-right: .4rem;
     font-size: 1.4rem;
+}
+
+.website {
+    padding: 2rem;
+}
+
+.website h2 {
+     font-size: 1.6rem;
+     margin-bottom: 1rem;
+}
+
+.website p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 1rem;
+}
+
+.website img {
+    margin-top: 1rem;
+    width: 100%;
 }
