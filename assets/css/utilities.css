@@ -2,6 +2,10 @@
     background-color: #3685fb;
 }
 
+.bg-light {
+background: #fff;
+}
+
 .footer-color {
     background-color: #184d70;
     /* background-color: #2a76a7; */

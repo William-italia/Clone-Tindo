@@ -5,8 +5,12 @@
 }
 
 body {
-    width: 100%;
+    /* height: 667px; */
+    /* width: 100%; */
+    width: 375px;
+    margin: 0 auto;
     height: 100%;
+    background: #333;
     overflow-x: hidden;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', 'Arial', 'sans-serif'
     
@@ -337,7 +341,7 @@ margin: 0;
 
 footer {
     text-align: center;
-    padding: 2rem;
+    padding: 3rem 2rem;
 }
 
 .footer-logo {
