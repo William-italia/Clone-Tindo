@@ -3,7 +3,8 @@
 }
 
 .footer-color {
-    background-color: #2a76a7;
+    background-color: #184d70;
+    /* background-color: #2a76a7; */
 }
 
 .btn {
@@ -34,4 +35,12 @@
 
 .font-blue {
     color: #589bff;
+}
+
+.space {
+    padding: .5rem;
+}
+
+.space-top {
+    padding-top: .5rem;
 }
