@@ -415,10 +415,10 @@ footer > p {
 .icons-socials > i {
     color: #fff;
     font-size: 1.5rem;
-    border: 10px solid #fff;
+    border: 5px solid #fff;
     border-radius: 50%;
     padding: .5rem;
-    margin: 0 .5rem;
+    margin: 0 .2rem;
 }
 
 .terms {
