@@ -13,7 +13,26 @@ Esse projeto é um site expirado em um site chamado [Tindo](https://sistematindo
 <br>
 <br>
 
-### O projeto está assim desde o último commit: 
-
+### O projeto está assim no momento.. 
+### The project is like this at the moment.. 
 
 ![gif](gif.gif)
+
+
+-------------------------------------
+
+Acesse o site aqui: [TRIP](https://william-italia.github.io/Project-Trip/).
+
+ *__Por favor utilize a ferramenta de responsividade do console, Ainda estou desenvolvendo para ipad/tablets, desktop...__*
+ 
+ *__PS: Site Construido a partir do Iphone SE__*
+
+-------------------------------------
+
+Access the website here: [TRIP](https://william-italia.github.io/Project-Trip/).
+
+*__Please use the console responsiveness tool, I'm still developing for ipad/tablets, desktop...__*
+ 
+ *__PS: Website Built from Iphone SE__*
+
+-------------------------------------
