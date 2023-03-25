@@ -6,14 +6,13 @@
 
 body {
     /* height: 667px; */ 
-    /* width: 375px; */
-    /* margin: 0 auto; */
-    width: 100%;
+    /* width: 100%; */
+    width: 375px;
     height: 100%;
-    background: #333;
+    margin: 0 auto;
+    background: url(../img/spectrum-gradient.svg) center center/cover;
     overflow-x: hidden;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', 'Arial', 'sans-serif'
-    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', 'Arial', 'sans-serif'   
 }
 
 .navbar {
